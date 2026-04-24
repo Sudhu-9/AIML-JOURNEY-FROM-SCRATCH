@@ -29,13 +29,6 @@ This repository documents my journey of learning Python, Data Analysis, and Mach
 - Description:
 - Status:
 
-## Daily Progress
-
-| Day | Topic | Status |
-|-----|------|--------|
-| Day 1 | Python Basics | ✅ |
-| Day 2 | Conditionals | ⬜ |
-| Day 3 | Loops | ⬜ |
 
 ## Why this repo?
 To stay accountable and build a strong portfolio with real proof of work.
