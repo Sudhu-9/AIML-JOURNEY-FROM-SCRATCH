@@ -1,1 +1,28 @@
+Day 1: Python Basics
+🎯 Focus
 
+Variables, input handling, and data types
+
+📌 Concepts Learned
+Variables store values in memory (name = "Sudhu")
+Python is dynamically typed (no need to declare type)
+input() always returns a string
+Common data types:
+int → whole numbers
+float → decimals
+str → text
+bool → True/False
+[[[[[[💻 Practice Code
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+height = float(input("Enter your height: "))
+
+print("Name:", name)
+print("Age:", age)
+print("Height:", height)]]]]]]
+⚠️ Key Mistake I faced
+input() returns string, so math doesn’t work without conversion
+🔧 Fix
+Used int() and float() to convert input properly
+🚀 Result
+Successfully stored and displayed user data using correct data types
