@@ -1,5 +1,5 @@
 # AIML-JOURNEY-FROM-SCRATCH
-# AIML Journey From Scratch
+
 
 This repository documents my journey of learning Python, Data Analysis, and Machine Learning from scratch.
 
