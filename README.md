@@ -41,4 +41,4 @@ This repository documents my journey of learning Python, Data Analysis, and Mach
 To stay accountable and build a strong portfolio with real proof of work.
 
 ## Connect
-(Add your LinkedIn later)
+https://www.linkedin.com/in/sudarshan-pathak-58583b405/
